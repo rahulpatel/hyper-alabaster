@@ -1,0 +1,22 @@
+{
+  "name": "hyper-alabaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Tonsky's alabaster theme for Hyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulpatel/hyper-alabaster.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper alabaster",
+    "hyper theme",
+    "alabaster-theme",
+    "tonsky",
+    "tonsky alabaster"
+  ],
+  "author": "Rahul Patel <rahulpatel@users.noreply.github.com>",
+  "license": "MIT"
+}
