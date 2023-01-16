@@ -4,6 +4,7 @@ const backgroundColor = '#F7F7F7';
 const foregroundColor = '#000000';
 const borderColor = '#CCCCCC';
 const cursorColor = '#007ACC';
+const selectionColor = '#BFDBFE';
 const colors = {
   white: '#BBBBBB',
   black: '#000000',
@@ -30,6 +31,7 @@ exports.decorateConfig = (config) => {
     foregroundColor,
     borderColor,
     cursorColor,
+    selectionColor,
     colors,
     termCSS: `
       ${config.termCSS || ''}
